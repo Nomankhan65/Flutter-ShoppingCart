@@ -1,0 +1,4 @@
+#Thu Mar 09 23:56:57 PKT 2023
+base.0=E\:\\FLUTTER\\asiftaj\\shoping_cart\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
